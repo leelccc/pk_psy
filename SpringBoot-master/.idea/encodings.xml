@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/microboot-activemq/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-actuator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-advance/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-base/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-email/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-error/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-interceptor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-kafka-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-kafka-producer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-rabbitmq-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-rabbitmq-producer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-restful-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-restful-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-restful-log/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-restful-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-restful-swagger/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-shiro-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-shiro-member-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-shiro-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-task/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-thymeleaf/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-tomcat/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-upload/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+  </component>
+</project>
